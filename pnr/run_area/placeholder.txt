@@ -1,0 +1,1 @@
+use /run_area by cd-ing into /run_area, then running genus or innovus.
